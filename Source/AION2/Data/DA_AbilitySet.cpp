@@ -1,0 +1,37 @@
+#include "Data/DA_AbilitySet.h"
+
+#include "AbilitySystemComponent.h"
+
+void UDA_AbilitySet::GiveToASC(UAbilitySystemComponent* ASC, TArray<FGameplayAbilitySpecHandle>& OutHandles) const
+{
+    if (!ASC || !ASC->IsOwnerActorAuthoritative())
+    {
+        return;
+    }
+
+    for (const auto& Entry : Abilities)
+    {
+        if (!Entry.Ability)
+        {
+            continue;
+        }
+
+        FGameplayAbilitySpec Spec(Entry.Ability, Entry.AbilityLevel, Entry.AbilityID);
+        FGameplayAbilitySpecHandle Handle = ASC->GiveAbility(Spec);
+        OutHandles.Add(Handle);
+    }
+}
+
+bool UDA_AbilitySet::GetAbilityDataByInputID(int32 AbilityID, FGAData& OutData) const
+{
+    for (const FGAData& Entry : Abilities)
+    {
+        if (Entry.AbilityID == AbilityID)
+        {
+            OutData = Entry;
+            return true;
+        }
+    }
+
+    return false;
+}

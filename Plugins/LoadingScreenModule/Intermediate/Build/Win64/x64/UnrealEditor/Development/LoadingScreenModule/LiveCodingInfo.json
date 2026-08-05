@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LoadingScreenModule.cpp.obj": [
+			"LevelLoadingSettings.gen.cpp.obj",
+			"LoadingScreenModule.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"LevelLoadingSettings.cpp.obj",
+			"LoadingScreenModule.cpp.obj",
+			"SLoadingScreen.cpp.obj"
+		]
+	}
+}

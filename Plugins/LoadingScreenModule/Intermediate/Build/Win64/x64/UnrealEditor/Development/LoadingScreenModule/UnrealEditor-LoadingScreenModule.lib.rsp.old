@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LoadingScreenModule.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/user/Documents/GitHub/AION2/Intermediate/Build/Win64/x64/AION2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/user/Documents/GitHub/AION2/Plugins/LoadingScreenModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/LoadingScreenModule/Module.LoadingScreenModule.cpp.obj"
+"C:/Users/user/Documents/GitHub/AION2/Plugins/LoadingScreenModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/LoadingScreenModule/Default.rc2.res"
+/OUT:"C:/Users/user/Documents/GitHub/AION2/Plugins/LoadingScreenModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/LoadingScreenModule/UnrealEditor-LoadingScreenModule.lib"
