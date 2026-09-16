@@ -26,8 +26,8 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
 
 # 💻구현 컨텐츠 및 기능 설명 
 
-- GAS, State Tree
-  <img width="400" alt="티메시아 사진" src="https://github.com/user-attachments/assets/ee9c66d6-7f44-4c17-ae49-28cb15358a14" />
+- GAS, State Tree <br><br>
+  <img width="600" alt="티메시아 사진" src="https://github.com/user-attachments/assets/ee9c66d6-7f44-4c17-ae49-28cb15358a14" />
 
 
   <br><br>
