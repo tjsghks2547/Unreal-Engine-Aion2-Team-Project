@@ -45,7 +45,7 @@ Unreal Engine을 활용한 팀 프로젝트 게임 모작에서 직접 구현한
     </td>
     <td>
       <b>돌진 공격 패턴</b><br>(Target이 근접해 있을 때)<br>
-      <img width="300" src="https://github.com/user-attachments/assets/4a4df034-0e61-4bed-9dd8-2696824a84b0" />
+      <img width="300" src="https://github.com/user-attachments/assets/81ec998a-4a28-48d6-a002-618f54bc110c" />
     </td>
     <td>
       <b>원거리 범위 공격</b><br>(Target이 일정 거리보다 멀리 있을 때)<br>
