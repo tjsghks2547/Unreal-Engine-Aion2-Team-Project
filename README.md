@@ -49,7 +49,7 @@ Unreal Engine을 활용한 팀 프로젝트 게임 모작에서 직접 구현한
   <br><br>
 
   - 원거리 범위 공격 ( Target이 일정 거리보다 멀리 있을 때 ) 
-  <img width="640" height="400" alt="Image" src="https://github.com/user-attachments/assets/3f6c12a4-6b59-44ba-88b1-0b5462c2a35e" />
+  <img width="550" height="340" alt="Image" src="https://github.com/user-attachments/assets/3f6c12a4-6b59-44ba-88b1-0b5462c2a35e" />
   <br><br>
 
   
