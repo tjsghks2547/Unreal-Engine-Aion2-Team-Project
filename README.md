@@ -28,54 +28,14 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
 
 - GAS, State Tree
 
-    ![Image](https://github.com/user-attachments/assets/ee9c66d6-7f44-4c17-ae49-28cb15358a14)
+  ![Image](https://github.com/user-attachments/assets/ee9c66d6-7f44-4c17-ae49-28cb15358a14)
 
-   
   <br><br>
   ![Image](https://github.com/user-attachments/assets/dcc70e5f-85d7-454c-9b0f-2c40b127894e)
      
-
-- PhysX 라이브러리를 사용해 게임 내 모든 충돌 처리 구현
-  - Collision Enter / Stay / Exit 함수를 연결하여 해당 Object의 충돌 상태 확인
-  - 충돌체 레이어를 활용하여 최적화
 <br><br>
-![Image](https://github.com/user-attachments/assets/0dc8b743-c306-41cf-8d62-478ee2a4c96b)
 
-- 다양한 셰이더 구현
-  - Ditehring
-  <br><br>
-  ![Image](https://github.com/user-attachments/assets/5a2a2587-41d8-4df3-a665-f7b9d279afae)
-  <br><br>
-  📝https://seonhwan2547.tistory.com/77 (Dithering 구현 및 설계 코드 정리 )
-  - Zoom Blur
-  <br><br>
-  ![Image](https://github.com/user-attachments/assets/bc11080a-d524-4ab1-8f14-612b8cf95dbc)
-  <br><br>
-  📝https://seonhwan2547.tistory.com/42 (Zoom Blur 구현 및 설계 코드 정리 )
-  -  Color Inversion Shader 
-  <br><br>
-  ![Image](https://github.com/user-attachments/assets/d80db297-4073-4042-b8e6-69ad323659c5)
-  - Dissolve / Glow
+- 보스 패턴 구현
+  
 
-- 플레이어 상태 디자인 패턴을 통한 컨트롤 구현
-
-
-- 카메라 연출
-  - Camera Bone을 활용한 컷신 구현
-    <br><br>
-    ![Image](https://github.com/user-attachments/assets/39738658-97a9-4512-a2b7-d645cdd46165)
-    <br><br>
-  - Perlin Noise 를 이용한 Camera Shake 기능
-    <br><br>
-    ![Image](https://github.com/user-attachments/assets/229ca5ba-86f9-49f3-a9d6-2bc787e8b717)
-    <br><br>
-    📝https://seonhwan2547.tistory.com/40?category=1286192 (Perlin Noise 구현 및 설계 코드 정리)
-  - Zoom In / Zoom Out
-    <br><br>
-    ![Image](https://github.com/user-attachments/assets/48ef232b-d152-491e-b8dd-6005f32f7718)
-    
-  - Lock On Camera <br><br>
-  ![Image](https://github.com/user-attachments/assets/b00b6c60-c7c8-4e54-a02a-f62cb2ab09bb)
-  <br><br>
-  📝https://seonhwan2547.tistory.com/41?category=1286192 (Lock On Camera 구현 및 설계 코드 정리 )
 
