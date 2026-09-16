@@ -63,7 +63,7 @@ Unreal Engine을 활용한 팀 프로젝트 게임 모작에서 직접 구현한
     </td>
     <td>
       <b>단체 기믹 패턴 </b><br>(보스의 Hp가 70%, 30% 이하일 때 발동)<br>
-      <img width="300" src="GIF_URL_6" />
+      <img width="300" src="https://github.com/user-attachments/assets/6bba842f-882c-4c3e-bf11-573c4c89bf25" />
     </td>
   </tr>
 </table>
