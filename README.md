@@ -4,9 +4,9 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
 <div align="center">
   <img width="400" alt="티메시아 사진" src="https://github.com/user-attachments/assets/249da04d-4ddf-411a-9ae2-e2135f452c24" />
   <br><br>
-  개발기간 : 2개월 <br><br>
+  개발기간 : 1개월 <br><br>
   📌해당 설명서는 팀원 개개인이 개별적으로 작성하기에 팀원 모두의 구현 내용을 담은 것이 아닙니다. <br><br>
-    작업기간 :  2025.02.12 ~ 2025.4.13
+    작업기간 :  2026.06.07 ~ 2026.07.13
 </div>
 
 # 동영상
