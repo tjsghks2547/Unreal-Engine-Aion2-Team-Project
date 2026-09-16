@@ -6,7 +6,7 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
   <br><br>
   개발기간 : 1개월 <br><br>
   📌해당 설명서는 팀원 개개인이 개별적으로 작성하기에 팀원 모두의 구현 내용을 담은 것이 아닙니다. <br><br>
-    작업기간 :  2026.06.07 ~ 2026.07.13
+    작업기간 :  2026.06.17 ~ 2026.07.14
 </div>
 
 # 동영상
@@ -26,7 +26,7 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
 
 # 💻구현 컨텐츠 및 기능 설명 
 
-- 애니메이션
+- GAS, State Tree
    - 애니메이션 툴 ( 애니메이션 속도 및 보간 속도, 시작 프레임위치, 끝나는 프레임 위치등을 설정 )
    - 루트 애니메이션<br>
     📝https://seonhwan2547.tistory.com/36 ( Root Animation 구현 및 설계 코드 정리 )
@@ -36,7 +36,7 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
     📝https://seonhwan2547.tistory.com/37 ( Animation Lerp 구현 및 설계 코드 정리 )
    - 애니메이션 프레임 단위로 사운드, 이펙트, 충돌 등의 이벤트를 자동 트리거하는 프레임 기반 이벤트 시스템을 구현.
   <br><br>
-  ![Image](https://github.com/user-attachments/assets/4c20bdcb-09ec-494c-821e-5d9cfdcc3564)
+  ![Image](https://github.com/user-attachments/assets/dcc70e5f-85d7-454c-9b0f-2c40b127894e)
      
 
 - PhysX 라이브러리를 사용해 게임 내 모든 충돌 처리 구현
