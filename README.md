@@ -31,7 +31,8 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
 
 
   <br><br>
-  ![Image](https://github.com/user-attachments/assets/dcc70e5f-85d7-454c-9b0f-2c40b127894e)
+  <img width="600" alt="티메시아 사진" src="https://github.com/user-attachments/assets/dcc70e5f-85d7-454c-9b0f-2c40b127894e" />
+  
      
 <br><br>
 
