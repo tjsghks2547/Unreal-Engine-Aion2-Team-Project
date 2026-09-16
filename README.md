@@ -37,20 +37,36 @@ Unreal Engine을 활용한 팀 프로젝트 게임 모작에서 직접 구현한
 <br><br>
 
 - 보스 패턴 구현 <br><br>
-
-  - 근접 공격 패턴 ( Target이 근접해 있을 때 ) 
-  <img width="550" height="340" alt="Image" src="https://github.com/user-attachments/assets/efd021a6-de2b-4052-9fb5-ba49fa29d831" />
-
-  <br><br>
-  
-  - 돌진 공격 패턴 ( Target이 근접해 있을 때 ) 
-  <img width="550" height="340" alt="Image" src="https://github.com/user-attachments/assets/4a4df034-0e61-4bed-9dd8-2666854a84b0" />
-
-  <br><br>
-
-  - 원거리 범위 공격 ( Target이 일정 거리보다 멀리 있을 때 ) 
-  <img width="550" height="340" alt="Image" src="https://github.com/user-attachments/assets/3f6c12a4-6b59-44ba-88b1-0b5462c2a35e" />
-  <br><br>
+<table>
+  <tr align="center">
+    <td>
+      <b>근접 공격 패턴</b><br>(Target이 근접해 있을 때)<br>
+      <img width="300" src="https://github.com/user-attachments/assets/efd021a6-de2b-4052-9fb5-ba49fa29d831" />
+    </td>
+    <td>
+      <b>돌진 공격 패턴</b><br>(Target이 근접해 있을 때)<br>
+      <img width="300" src="https://github.com/user-attachments/assets/4a4df034-0e61-4bed-9dd8-2696824a84b0" />
+    </td>
+    <td>
+      <b>원거리 범위 공격</b><br>(Target이 일정 거리보다 멀리 있을 때)<br>
+      <img width="300" src="https://github.com/user-attachments/assets/3f6c12a4-6b59-44ba-88b1-0b5462c2a35e" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>패턴 4</b><br>(설명)<br>
+      <img width="300" src="GIF_URL_4" />
+    </td>
+    <td>
+      <b>패턴 5</b><br>(설명)<br>
+      <img width="300" src="GIF_URL_5" />
+    </td>
+    <td>
+      <b>패턴 6</b><br>(설명)<br>
+      <img width="300" src="GIF_URL_6" />
+    </td>
+  </tr>
+</table>
 
   
 
