@@ -59,7 +59,7 @@ Unreal Engine을 활용한 팀 프로젝트 게임 모작에서 직접 구현한
     </td>
     <td>
       <b>Wave Attack </b><br>(Target이 일정 거리보다 멀리 있을 때)<br>
-      <img width="300" src="GIF_URL_5" />
+      <img width="300" src="https://github.com/user-attachments/assets/15d03197-ca94-4c82-9091-cf62a8bfd16b" />
     </td>
     <td>
       <b>단체 기믹 패턴 </b><br>(보스의 Hp가 70%, 30% 이하일 때 발동)<br>
