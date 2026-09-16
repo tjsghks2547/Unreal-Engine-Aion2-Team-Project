@@ -37,6 +37,8 @@ DirectX11을 활용한 팀 프로젝트 게임 모작에서 직접 구현한 기
 <br><br>
 
 - 보스 패턴 구현
+
+  <img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/9e7e0ece-8130-4f72-ad77-08c9b4f464ac" />
   
 
 
